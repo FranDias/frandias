@@ -56,7 +56,7 @@ a {
 .page-header {
   color: #fff;
   text-align: center;
-  background: lightsalmon
+  background:#bada55 
 }
 
 @media screen and (min-width: 64em) {
@@ -112,7 +112,7 @@ a {
   margin-top: 2rem;
   margin-bottom: 1rem;
   font-weight: normal;
-  color: lightsalmon; }
+  color: #bada55; }
 .main-content p {
   margin-bottom: 1em; }
 .main-content code {
