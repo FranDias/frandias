@@ -1,5 +1,9 @@
 * {
   box-sizing: border-box; }
+  
+ul {
+  list-style: none;
+}
 
 body {
   padding: 0;
@@ -56,7 +60,7 @@ a {
 .page-header {
   color: #333;
   text-align: center;
-  border-bottom: 1px solid #333 
+  border-bottom: 1px solid #a9a9a9
 }
 
 @media screen and (min-width: 64em) {
